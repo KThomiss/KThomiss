@@ -20,6 +20,10 @@ const About = () => {
     learning: [ "typescript", "nextjs" ],
     design: [ "ux", "ui", "adobeXd" ] 
   }
+  
+  const portfolio = document.querySelector(#link);
+  console.log(portfolio);
+  [visit site](https://www.kristianportfolio.com/)
 
 }
 ```

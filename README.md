@@ -1,16 +1,26 @@
+![Welcome having takes time](https://user-images.githubusercontent.com/79108090/206920634-992c92bb-4224-49f5-8bc2-4c6f107dfac6.png)
+
 ### Hi there 👋
 
-<!--
-**KThomiss/KThomiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+const About = () => {
 
-Here are some ideas to get you started:
+  const location = 'Horten, Norway'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  const aboutMe = {
+    firstName: "Kristian",
+    lastName: "Thomassen,
+    age: 31,
+    keywords: [ "open-minded", "structured", "funny" ]
+    hobbies: [ "running", "floorball", "movies", "games" ]
+  }
+
+  const skills = {
+    technologies: [ 'html', 'javascript', 'jquery', 'react', 'bootstrap' 'css', 'sass'],
+    learning: [ 'typescript', 'nextjs' ],
+    design: [ 'ux', 'ui', 'adobexd' ] 
+  }
+
+}
+```
+

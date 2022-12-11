@@ -21,10 +21,11 @@ const About = () => {
     design: [ "ux", "ui", "adobeXd" ] 
   }
   
-  const portfolio = document.querySelector(#link);
-  console.log(portfolio);
-  [visit site](https://www.kristianportfolio.com/)
-
 }
 ```
+## Websites
+<pre>
+<a href="https://www.kristianportfolio.com/">Portfolio</a>
+<a href="https://www.linkedin.com/in/kristian-thomassen-6a8958203/">LinkedIn</a>
+</pre>
 

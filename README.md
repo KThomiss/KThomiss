@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-```
+```js
 const About = () => {
 
   const location = "Horten, Norway"
@@ -16,7 +16,7 @@ const About = () => {
   }
 
   const skills = {
-    technologies: [ "html", "javascript", "react", "bootstrap", "css", "sass"],
+    languages: [ "html", "javascript", "react", "bootstrap", "css", "sass"],
     learning: [ "typescript", "nextjs" ],
     design: [ "ux", "ui", "adobeXd" ] 
   }

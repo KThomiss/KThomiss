@@ -5,7 +5,7 @@
 ```
 const About = () => {
 
-  const location = 'Horten, Norway'
+  const location = "Horten, Norway"
 
   const aboutMe = {
     firstName: "Kristian",
@@ -16,9 +16,9 @@ const About = () => {
   }
 
   const skills = {
-    technologies: [ 'html', 'javascript', 'jquery', 'react', 'bootstrap' 'css', 'sass'],
-    learning: [ 'typescript', 'nextjs' ],
-    design: [ 'ux', 'ui', 'adobexd' ] 
+    technologies: [ "html", "javascript", "react", "bootstrap", "css", "sass"],
+    learning: [ "typescript", "nextjs" ],
+    design: [ "ux", "ui", "adobeXd" ] 
   }
 
 }

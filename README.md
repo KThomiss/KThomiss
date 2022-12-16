@@ -11,7 +11,7 @@ const About = () => {
     firstName: "Kristian",
     lastName: "Thomassen,
     age: 31,
-    keywords: [ "open-minded", "structured", "funny" ]
+    keywords: [ "open-minded", "structured", "funny", "curious" ]
     hobbies: [ "running", "floorball", "movies", "games" ]
   }
 
